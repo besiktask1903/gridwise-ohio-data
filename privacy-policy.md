@@ -4,7 +4,7 @@
 
 ## Overview
 
-GridWise Ohio ("the App") is a free utility rate comparison tool for Ohio residents. We are committed to protecting your privacy and being transparent about our practices.
+GridWise Ohio ("the App") is a free **residential** electric and natural gas rate comparison tool for Ohio residents. The App helps homeowners and renters compare supplier rates for their home utility service. This App is intended for residential customers only and is not for commercial or industrial use. We are committed to protecting your privacy and being transparent about our practices.
 
 ## Information We Collect
 
