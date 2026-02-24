@@ -1,0 +1,56 @@
+{
+  "changes": [
+    {
+      "date": "2026-02-03T15:09:13.403308Z",
+      "type": "utility_sco",
+      "entity_id": "columbia_gas",
+      "entity_name": "Columbia Gas of Ohio",
+      "old_rate": 0.7937,
+      "new_rate": 1.071
+    },
+    {
+      "date": "2026-02-03T15:09:13.403308Z",
+      "type": "utility_sco",
+      "entity_id": "duke_energy",
+      "entity_name": "Duke Energy Ohio",
+      "old_rate": 0.2834,
+      "new_rate": 0.6305
+    },
+    {
+      "date": "2026-02-03T15:09:13.403308Z",
+      "type": "utility_sco",
+      "entity_id": "enbridge",
+      "entity_name": "Enbridge Gas Ohio",
+      "old_rate": 4.9248,
+      "new_rate": 5.187
+    },
+    {
+      "date": "2026-02-03T15:09:13.403308Z",
+      "type": "utility_sco",
+      "entity_id": "centerpoint",
+      "entity_name": "CenterPoint Energy Ohio",
+      "old_rate": 0.7215,
+      "new_rate": 1.0182
+    },
+    {
+      "date": "2026-02-24T11:38:20.118734Z",
+      "type": "utility_sco",
+      "entity_id": "enbridge",
+      "entity_name": "Enbridge Gas Ohio",
+      "old_rate": 5.187,
+      "new_rate": 7.96
+    }
+  ],
+  "last_known_rates": {
+    "gas_sco_columbia_gas": 1.071,
+    "gas_sco_duke_energy": 0.6305,
+    "gas_sco_enbridge": 7.96,
+    "gas_sco_centerpoint": 1.0182,
+    "electric_ptc_aes_ohio": 0.0945,
+    "electric_ptc_american_electric_power": 0.1065,
+    "electric_ptc_duke_energy_electric": 0.1006,
+    "electric_ptc_firstenergy_ohio_edison": 0.0933,
+    "electric_ptc_firstenergy_illuminating": 0.095,
+    "electric_ptc_firstenergy_toledo_edison": 0.0969
+  }
+}
