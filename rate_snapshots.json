@@ -858,6 +858,70 @@
           "rate_unit": "kWh"
         }
       }
+    },
+    {
+      "month": "2026-05",
+      "type": "gas",
+      "date": "2026-05-01T11:57:45.379558Z",
+      "rates": {
+        "columbia_gas": {
+          "name": "Columbia Gas of Ohio",
+          "rate": 0.4809,
+          "rate_unit": "CCF"
+        },
+        "duke_energy": {
+          "name": "Duke Energy Ohio",
+          "rate": 0.7449,
+          "rate_unit": "CCF"
+        },
+        "enbridge": {
+          "name": "Enbridge Gas Ohio",
+          "rate": 3.795,
+          "rate_unit": "CCF"
+        },
+        "centerpoint": {
+          "name": "CenterPoint Energy Ohio",
+          "rate": 0.4962,
+          "rate_unit": "CCF"
+        }
+      }
+    },
+    {
+      "month": "2026-05",
+      "type": "electric",
+      "date": "2026-05-01T11:58:07.260043Z",
+      "rates": {
+        "aes_ohio": {
+          "name": "AES Ohio",
+          "rate": 0.0945,
+          "rate_unit": "kWh"
+        },
+        "american_electric_power": {
+          "name": "American Electric Power",
+          "rate": 0.0994,
+          "rate_unit": "kWh"
+        },
+        "duke_energy_electric": {
+          "name": "Duke Energy Ohio",
+          "rate": 0.1008,
+          "rate_unit": "kWh"
+        },
+        "firstenergy_ohio_edison": {
+          "name": "Ohio Edison",
+          "rate": 0.097,
+          "rate_unit": "kWh"
+        },
+        "firstenergy_illuminating": {
+          "name": "The Illuminating Company",
+          "rate": 0.0988,
+          "rate_unit": "kWh"
+        },
+        "firstenergy_toledo_edison": {
+          "name": "Toledo Edison",
+          "rate": 0.0999,
+          "rate_unit": "kWh"
+        }
+      }
     }
   ]
 }
