@@ -1838,7 +1838,7 @@
       "count": 122,
       "ptc_rate": 0.0945,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.0945,
+      "ptc_previous_rate": null,
       "ptc_previous_date": null
     },
     "american_electric_power": {
@@ -4143,8 +4143,8 @@
       "count": 153,
       "ptc_rate": 0.0994,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.0994,
-      "ptc_previous_date": null
+      "ptc_previous_rate": 0.1065,
+      "ptc_previous_date": "2026-04-01T15:02:41.826696Z"
     },
     "duke_energy_electric": {
       "name": "Duke Energy Ohio",
@@ -6553,8 +6553,8 @@
       "count": 160,
       "ptc_rate": 0.1008,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.1008,
-      "ptc_previous_date": null
+      "ptc_previous_rate": 0.1006,
+      "ptc_previous_date": "2026-04-01T15:02:41.826718Z"
     },
     "firstenergy_ohio_edison": {
       "name": "Ohio Edison",
@@ -8648,8 +8648,8 @@
       "count": 139,
       "ptc_rate": 0.097,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.097,
-      "ptc_previous_date": null
+      "ptc_previous_rate": 0.0933,
+      "ptc_previous_date": "2026-04-01T15:02:41.826725Z"
     },
     "firstenergy_illuminating": {
       "name": "The Illuminating Company",
@@ -10743,8 +10743,8 @@
       "count": 139,
       "ptc_rate": 0.0988,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.0988,
-      "ptc_previous_date": null
+      "ptc_previous_rate": 0.095,
+      "ptc_previous_date": "2026-04-01T15:02:41.826730Z"
     },
     "firstenergy_toledo_edison": {
       "name": "Toledo Edison",
@@ -12853,8 +12853,8 @@
       "count": 140,
       "ptc_rate": 0.0999,
       "ptc_effective_date": "June 01, 2026",
-      "ptc_previous_rate": 0.0999,
-      "ptc_previous_date": null
+      "ptc_previous_rate": 0.0969,
+      "ptc_previous_date": "2026-04-01T15:02:41.826734Z"
     }
   }
 }

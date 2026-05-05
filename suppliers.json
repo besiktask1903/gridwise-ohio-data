@@ -1074,7 +1074,7 @@
       "sco_rate": 0.4809,
       "sco_effective_date": "May 29, 2026",
       "sco_previous_rate": 0.5345,
-      "sco_previous_date": null
+      "sco_previous_date": "2026-04-30T12:13:55.683528Z"
     },
     "duke_energy": {
       "name": "Duke Energy Ohio",
@@ -2088,8 +2088,8 @@
       "count": 67,
       "sco_rate": 0.7586,
       "sco_effective_date": "June 01, 2026",
-      "sco_previous_rate": 0.7586,
-      "sco_previous_date": null
+      "sco_previous_rate": 0.7449,
+      "sco_previous_date": "2026-05-01T17:18:41.750630Z"
     },
     "enbridge": {
       "name": "Enbridge Gas Ohio",
@@ -3374,7 +3374,7 @@
       "sco_rate": 3.795,
       "sco_effective_date": "May 12, 2026",
       "sco_previous_rate": 3.469,
-      "sco_previous_date": null
+      "sco_previous_date": "2026-04-15T11:55:04.764428Z"
     },
     "centerpoint": {
       "name": "CenterPoint Energy Ohio",
@@ -3998,8 +3998,8 @@
       "count": 41,
       "sco_rate": 0.4388,
       "sco_effective_date": "June 01, 2026",
-      "sco_previous_rate": 0.4388,
-      "sco_previous_date": null
+      "sco_previous_rate": 0.4962,
+      "sco_previous_date": "2026-05-01T17:18:41.750630Z"
     }
   }
 }
