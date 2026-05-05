@@ -17,7 +17,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -32,7 +33,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=C376EAD6-F6BC-455C-900F-908F80BCF340&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -47,7 +49,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -62,7 +65,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=COH",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -77,7 +81,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=5360",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "nTherm  LLC",
@@ -92,7 +97,8 @@
           "phone": "(888) 865-3402",
           "website_url": "https://www.ntherm.com",
           "signup_url": "https://www.ntherm.com",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -107,7 +113,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=18323422-FB3D-441C-81E7-0D429389FDE7&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=6C49658E-DF67-4B79-8B4F-6FFA8A51996A&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Major Energy Services LLC",
@@ -122,7 +129,8 @@
           "phone": "(888) 625-6760",
           "website_url": "https://majorenergy.com/",
           "signup_url": "https://majorenergy.com/enroll/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -137,7 +145,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -152,7 +161,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=81&promocode=APPLESZERO",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Nordic Energy Services LLC",
@@ -167,7 +177,8 @@
           "phone": "(877) 808-1022",
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Kiwi Energy",
@@ -182,7 +193,8 @@
           "phone": "(877) 208-7636",
           "website_url": "https://www.kiwienergy.us",
           "signup_url": "https://www.kiwienergy.us",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -197,7 +209,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -212,7 +225,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=7276A82C-3FBF-45DD-A4E7-2D8CD23792F0&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -227,7 +241,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_12M_T1_COHOHG&utm_content=gas",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": true
         },
         {
           "name": "AEP Energy Inc",
@@ -242,7 +257,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_12",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -257,7 +273,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=5360",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -272,7 +289,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/natural-gas/columbia-of-ohio?der=3722",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -287,7 +305,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=0DEA5C01-20CA-43D0-A140-21CFC5E8720A&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=6C49658E-DF67-4B79-8B4F-6FFA8A51996A&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Provision",
@@ -302,7 +321,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=COH",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -317,7 +337,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -332,7 +353,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -347,7 +369,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/columbia-gas-ohio-res/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -362,7 +385,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=4F1C52C3-879B-415F-9FC2-073D92363966&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=6C49658E-DF67-4B79-8B4F-6FFA8A51996A&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -377,7 +401,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=0ABD5027-BB93-47F9-92BF-7B84253C7078&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -392,7 +417,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -407,7 +433,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/columbia-gas-ohio-res/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Kratos Gas & Power",
@@ -422,7 +449,8 @@
           "phone": "(800) 296-2203",
           "website_url": "https://www.unitedenergytrading.com",
           "signup_url": "https://ohio.kratosgp.com/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -437,7 +465,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=0A3DD8D7-3344-4A40-AE7D-6EF1A7084AEF&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Median Energy Corp",
@@ -452,7 +481,8 @@
           "phone": "(888) 316-5443",
           "website_url": "https://www.medianenergy.com",
           "signup_url": "http://www.medianenergy.com/sign-up/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "South Bay Energy Corp.",
@@ -467,7 +497,8 @@
           "phone": "(877) 724-9010",
           "website_url": "https://www.southbayenergy.com",
           "signup_url": "http://www.southbayenergy.com",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Provision",
@@ -482,7 +513,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=COH",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -497,7 +529,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_6M_M3_COHOHG&utm_content=gas",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": true
         },
         {
           "name": "Shipley Choice  LLC",
@@ -512,7 +545,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -527,7 +561,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=4.99-12mos",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -542,7 +577,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_36",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_36",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -557,7 +593,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=81&promocode=APPLESZERO",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -572,7 +609,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -587,7 +625,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/applecoh",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "SFE Energy Ohio  Inc",
@@ -602,7 +641,8 @@
           "phone": "(866) 255-3844",
           "website_url": "https://www.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -617,7 +657,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/columbia-gas-ohio-res/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -632,7 +673,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=COH",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -647,7 +689,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=66A633BF-B920-40CB-B37C-7E414A04C3F4&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=6C49658E-DF67-4B79-8B4F-6FFA8A51996A&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -662,7 +705,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/?des=oh&deu=30&utm_source=puco&utm_medium=signuplink&utm_campaign=colohio",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -677,7 +721,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -692,7 +737,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=6.99-12mos",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -707,7 +753,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -722,7 +769,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -737,7 +785,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=5360",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Alpha Gas And Electric LLC",
@@ -752,7 +801,8 @@
           "phone": "(845) 810-0088",
           "website_url": "https://alphagasandelectric.com/P2C/",
           "signup_url": "https://alphagasandelectric.com/P2C/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -767,7 +817,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Kiwi Energy NY LLC",
@@ -782,7 +833,8 @@
           "phone": "(877) 208-7636",
           "website_url": "https://www.kiwienergy.us",
           "signup_url": "https://www.kiwienergy.us",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -797,7 +849,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -812,7 +865,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=8D43A666-E0B4-4A42-91F9-734729FFA1B7&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -827,7 +881,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=81&promocode=APPLESZERO",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -842,7 +897,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -857,7 +913,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=081EE58A-418A-4497-AC30-A1FA1B982D84&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=3E28BAE0-0BDB-4BD8-A668-F804B13DC58C&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -872,7 +929,8 @@
           "phone": "(888) 593-4225",
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -887,7 +945,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-coh&utm_source=A2A&utm_medium=shopping&utm_campaign=coh_24",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "NRG Home",
@@ -902,7 +961,8 @@
           "phone": "(855) 500-8703",
           "website_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -917,7 +977,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/?des=oh&deu=30&utm_source=puco&utm_medium=signuplink&utm_campaign=colohio",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -932,7 +993,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/columbia-gas-ohio-res/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "South Bay Energy Corp.",
@@ -947,7 +1009,8 @@
           "phone": "(877) 724-9010",
           "website_url": "https://www.southbayenergy.com",
           "signup_url": "http://www.southbayenergy.com",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -962,7 +1025,8 @@
           "phone": "(888) 669-2365",
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -977,7 +1041,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -992,7 +1057,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=33061C5D-191A-40BB-90E0-C12074517E62&UID=D2873DA5-82F3-4F75-8298-505FA775E78A&OID=6C49658E-DF67-4B79-8B4F-6FFA8A51996A&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -1007,7 +1073,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Kiwi Energy",
@@ -1022,7 +1089,8 @@
           "phone": "(877) 208-7636",
           "website_url": "https://www.kiwienergy.us",
           "signup_url": "https://www.kiwienergy.us",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ambit Northeast  LLC",
@@ -1037,7 +1105,8 @@
           "phone": "(877) 282-6248",
           "website_url": "https://www.ambitenergy.com/?rfid=PUCO",
           "signup_url": "https://www.ambitenergy.com/?rfid=PUCO",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1052,7 +1121,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/applecoh",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -1067,7 +1137,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "columbia_gas"
+          "utility_id": "columbia_gas",
+          "bundle_required": false
         }
       ],
       "count": 71,
@@ -1092,7 +1163,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -1107,7 +1179,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=84&promocode=APPLESZERO",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -1122,7 +1195,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "MPower Energy NJ LLC",
@@ -1137,7 +1211,8 @@
           "phone": "(347) 243-0955",
           "website_url": "https://mpowerenergy.com",
           "signup_url": "https://mpowerenergy.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1152,7 +1227,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "IDT Energy  Inc",
@@ -1167,7 +1243,8 @@
           "phone": "(877) 887-6866",
           "website_url": "https://www.IDTEnergy.com",
           "signup_url": "https://idtenergy.com/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -1182,7 +1259,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=5360",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -1197,7 +1275,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas12",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ambit Northeast  LLC",
@@ -1212,7 +1291,8 @@
           "phone": "(877) 282-6248",
           "website_url": "https://www.ambitenergy.com/?rfid=PUCO",
           "signup_url": "https://www.ambitenergy.com/?rfid=PUCO",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -1227,7 +1307,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/natural-gas/duke-energy-natural-gas?der=1546",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -1242,7 +1323,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Clearview Electric Inc",
@@ -1257,7 +1339,8 @@
           "phone": "(888) 512-8994",
           "website_url": "https://www.clearviewenergy.com/states/oh/",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=88&utilityidG=&utilityname=Duke&utilitynameG=&ctype=Resi&utility-state=oh&productNum=410037",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1272,7 +1355,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DUK",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -1287,7 +1371,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/?des=oh&deu=29&utm_source=puco&utm_medium=signuplink&utm_campaign=duke",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -1302,7 +1387,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_6M_M3_DUKOHG&utm_content=gas",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": true
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -1317,7 +1403,8 @@
           "phone": "(888) 593-4225",
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -1332,7 +1419,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -1347,7 +1435,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=2F9B0B36-CB9E-4FA0-B3DC-E45464FAABA3&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=8B4193EF-BBCE-4BBE-8896-06FC41A08AFC&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -1362,7 +1451,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1377,7 +1467,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=F8F60D3D-9527-49F1-8C87-C6618FEE13E0&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1392,7 +1483,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DUK",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -1407,7 +1499,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=CFB13271-ED66-4BA9-B66C-94D1B2873510&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=8B4193EF-BBCE-4BBE-8896-06FC41A08AFC&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1422,7 +1515,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=4083104E-6FC6-44F5-8E1B-91C65EBDEB04&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "SFE Energy Ohio  Inc",
@@ -1437,7 +1531,8 @@
           "phone": "(866) 255-3844",
           "website_url": "https://www.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Residents Energy  LLC",
@@ -1452,7 +1547,8 @@
           "phone": "(888) 828-7374",
           "website_url": "https://www.ResidentsEnergy.com",
           "signup_url": "https://residentsenergy.com/sign-up-step-1/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -1467,7 +1563,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=5360",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Kiwi Energy",
@@ -1482,7 +1579,8 @@
           "phone": "(877) 208-7636",
           "website_url": "https://www.kiwienergy.us",
           "signup_url": "https://www.kiwienergy.us",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -1497,7 +1595,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -1512,7 +1611,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=84&promocode=APPLESZERO",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -1527,7 +1627,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_12M_T1_DUKOHG&utm_content=gas",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": true
         },
         {
           "name": "Ohio Natural Gas",
@@ -1542,7 +1643,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DUK",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1557,7 +1659,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=DD859E3E-A77B-4A3A-BCFF-2070B6EC2FEC&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -1572,7 +1675,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=155FF36E-ED9D-4A31-A9E7-74115D3E5353&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=8B4193EF-BBCE-4BBE-8896-06FC41A08AFC&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -1587,7 +1691,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Nordic Energy Services LLC",
@@ -1602,7 +1707,8 @@
           "phone": "(877) 808-1022",
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -1617,7 +1723,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=4.99-12mos",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -1632,7 +1739,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/duke-energy-natural-gas?der=3819",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -1647,7 +1755,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=EE3C2B6D-B289-46AD-9E62-2643A63C75F7&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=8B4193EF-BBCE-4BBE-8896-06FC41A08AFC&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "South Bay Energy Corp.",
@@ -1662,7 +1771,8 @@
           "phone": "(877) 724-9010",
           "website_url": "http://www.southbayenergy.com",
           "signup_url": "http://www.southbayenergy.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Kiwi Energy",
@@ -1677,7 +1787,8 @@
           "phone": "(877) 208-7636",
           "website_url": "https://www.kiwienergy.us",
           "signup_url": "https://www.kiwienergy.us",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -1692,7 +1803,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=931A0B67-8719-4F50-BF19-91CA5709A62E&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=8B4193EF-BBCE-4BBE-8896-06FC41A08AFC&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -1707,7 +1819,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Major Energy Services LLC",
@@ -1722,7 +1835,8 @@
           "phone": "(888) 625-6760",
           "website_url": "https://majorenergy.com/",
           "signup_url": "https://majorenergy.com/enroll/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1737,7 +1851,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1752,7 +1867,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=4D5B0B25-9DDD-45C2-832A-F658AA599ADA&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -1767,7 +1883,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Provision Power & Gas LLC",
@@ -1782,7 +1899,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1797,7 +1915,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=53D9D3C5-444C-4687-B4B5-E874CC37D338&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Greenlight Energy Inc.",
@@ -1812,7 +1931,8 @@
           "phone": "(888) 453-4427",
           "website_url": "https://www.gogreenlightenergy.com",
           "signup_url": "https://www.gogreenlightenergy.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -1827,7 +1947,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas24",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -1842,7 +1963,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -1857,7 +1979,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/appleduke",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Alpha Gas And Electric LLC",
@@ -1872,7 +1995,8 @@
           "phone": "(845) 810-0088",
           "website_url": "https://alphagasandelectric.com/P2C/",
           "signup_url": "https://alphagasandelectric.com/P2C/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -1887,7 +2011,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=9504AA5B-4861-4160-9191-A1FC9E8F4109&UID=D752E325-7A0C-4BB2-A5A9-0F2613B87609&OID=535DC816-773A-44A3-8645-B318D086A5E8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Provision Power & Gas LLC",
@@ -1902,7 +2027,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -1917,7 +2043,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Interstate Gas Supply LLC",
@@ -1932,7 +2059,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "nTherm  LLC",
@@ -1947,7 +2075,8 @@
           "phone": "(888) 865-3402",
           "website_url": "https://www.ntherm.com",
           "signup_url": "https://www.ntherm.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Kratos Gas & Power",
@@ -1962,7 +2091,8 @@
           "phone": "(800) 296-2203",
           "website_url": "https://www.ohio.kratosgp.com",
           "signup_url": "https://www.ohio.kratosgp.com",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -1977,7 +2107,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=6.99-12mos",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Median Energy Corp",
@@ -1992,7 +2123,8 @@
           "phone": "(888) 316-5443",
           "website_url": "https://www.medianenergy.com",
           "signup_url": "http://www.medianenergy.com/sign-up/",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -2007,7 +2139,8 @@
           "phone": "(888) 669-2365",
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "NRG Home",
@@ -2022,7 +2155,8 @@
           "phone": "(855) 500-8703",
           "website_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -2037,7 +2171,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -2052,7 +2187,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas36",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-duke&utm_source=A2A&utm_medium=shopping&utm_campaign=duke_gas36",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -2067,7 +2203,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -2082,7 +2219,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=84&promocode=APPLESZERO",
-          "utility_id": "duke_energy"
+          "utility_id": "duke_energy",
+          "bundle_required": false
         }
       ],
       "count": 67,
@@ -2107,7 +2245,8 @@
           "phone": "(888) 512-8994",
           "website_url": "https://www.clearviewenergy.com/states/pa/",
           "signup_url": "https://www.clearviewenergy.com/documents/tos/?productNum=410036",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -2122,7 +2261,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -2137,7 +2277,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2152,7 +2293,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -2167,7 +2309,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_6M_M3_DEOOHG&utm_content=gas",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": true
         },
         {
           "name": "Ohio Natural Gas",
@@ -2182,7 +2325,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DEO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Major Energy Services LLC",
@@ -2197,7 +2341,8 @@
           "phone": "(888) 825-6760",
           "website_url": "https://majorenergy.com/",
           "signup_url": "https://majorenergy.com/enroll/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Eastern Power and Gas LLC",
@@ -2212,7 +2357,8 @@
           "phone": "(877) 799-3637",
           "website_url": "https://Easternpng.com",
           "signup_url": "https://easternpng.com/interactions/check-eligibility/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "BTY Energy LLC",
@@ -2227,7 +2373,8 @@
           "phone": "(800) 997-9217",
           "website_url": "https://www.btyenergy.com/current-offers",
           "signup_url": "https://www.btyenergy.com/current-offers",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Provision",
@@ -2242,7 +2389,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=DEO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2257,7 +2405,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=0ED9B9A5-5BDF-4F4A-B1B4-A493A0FDA694&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -2272,7 +2421,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -2287,7 +2437,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Barracuda Energy LLC",
@@ -2302,7 +2453,8 @@
           "phone": "(833) 628-4278",
           "website_url": "https://www.barracudagas.com",
           "signup_url": "https://barracudagas.com/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Snyder Brothers Energy Marketing LLC",
@@ -2317,7 +2469,8 @@
           "phone": "(800) 394-8101",
           "website_url": "https://www.snyderbrothersinc.com",
           "signup_url": "https://www.snyderbrothersinc.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -2332,7 +2485,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -2347,7 +2501,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Kratos Gas & Power",
@@ -2362,7 +2517,8 @@
           "phone": "(800) 296-2203",
           "website_url": "https://www.ohio.kratosgp.com",
           "signup_url": "https://www.ohio.kratosgp.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -2377,7 +2533,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_36",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_36",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -2392,7 +2549,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_24",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2407,7 +2565,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Kratos Gas & Power",
@@ -2422,7 +2581,8 @@
           "phone": "(800) 296-2203",
           "website_url": "https://www.unitedenergytrading.com",
           "signup_url": "https://ohio.kratosgp.com/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Santanna Energy Services",
@@ -2437,7 +2597,8 @@
           "phone": "(866) 325-0225",
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=company-url&utm_content=gas&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3&utm_source=energychoice.ohio.gov&utm_medium=referral&utm_campaign=FIX_12M_T1_DEOOHG&utm_content=gas",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": true
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -2452,7 +2613,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/dominion-east-of-ohio?der=73",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -2467,7 +2629,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=92&promocode=APPLESZERO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -2482,7 +2645,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "NRG Home",
@@ -2497,7 +2661,8 @@
           "phone": "(855) 500-8703",
           "website_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/ohio-choice.html",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "nTherm  LLC",
@@ -2512,7 +2677,8 @@
           "phone": "(888) 865-3402",
           "website_url": "https://www.ntherm.com",
           "signup_url": "https://www.ntherm.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Nordic Energy Services LLC",
@@ -2527,7 +2693,8 @@
           "phone": "(877) 808-1022",
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2542,7 +2709,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=54BBFC99-3273-413D-B99D-FC4A0E242661&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -2557,7 +2725,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2572,7 +2741,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=D3E6D7DF-3744-4769-AE62-B2475F5FBF2F&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -2587,7 +2757,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DEO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -2602,7 +2773,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=4.99-12mos",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -2617,7 +2789,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -2632,7 +2805,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=5360",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -2647,7 +2821,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=F462301C-256E-44A7-8CDD-F573F9459377&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=45FD93C1-8B47-4B00-864D-C589E310E371&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -2662,7 +2837,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/Rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "nTherm  LLC",
@@ -2677,7 +2853,8 @@
           "phone": "(888) 865-3402",
           "website_url": "https://www.ntherm.com",
           "signup_url": "https://www.ntherm.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2692,7 +2869,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=F84DF074-7A09-4958-923D-2B91D9641FA1&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Median Energy Corp",
@@ -2707,7 +2885,8 @@
           "phone": "(888) 316-5443",
           "website_url": "https://www.medianenergy.com",
           "signup_url": "http://www.medianenergy.com/sign-up/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2722,7 +2901,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=0E777ADC-F37A-4448-9E55-5E84F0EA6899&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -2737,7 +2917,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/dominion-east-of-ohio?der=1901",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Provision",
@@ -2752,7 +2933,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://provisionpg.com/",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=DEO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2767,7 +2949,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -2782,7 +2965,8 @@
           "phone": "(888) 669-2365",
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Major Energy Services LLC",
@@ -2797,7 +2981,8 @@
           "phone": "(888) 625-6760",
           "website_url": "https://majorenergy.com/",
           "signup_url": "https://majorenergy.com/enroll/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -2812,7 +2997,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -2827,7 +3013,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=5360",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -2842,7 +3029,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=48C45366-9C69-480E-9617-516BEA01B68E&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=45FD93C1-8B47-4B00-864D-C589E310E371&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -2857,7 +3045,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=92&promocode=APPLESZERO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -2872,7 +3061,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=6.99-12mos",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -2887,7 +3077,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Gas & Electric",
@@ -2902,7 +3093,8 @@
           "phone": "(866) 706-7360",
           "website_url": "https://www.ohgande.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.ohgande.com/cust/?PID=4D24109E-C849-433C-B9CD-C9543D7216DC&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=9AC2270C-90AA-459B-8AA8-C36E6833AAF8&RFID=PUCO&PUC=1&STATE=OH&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -2917,7 +3109,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/dominion-east-of-ohio?der=3858",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2932,7 +3125,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2947,7 +3141,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Electra Sparks LLC",
@@ -2962,7 +3157,8 @@
           "phone": "(888) 907-9070",
           "website_url": "https://ELECTRASPARKS.COM",
           "signup_url": "https://www.electrasparks.com/sign-up-1-1",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -2977,7 +3173,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=49F92A77-79A2-473C-A9C2-BFD7A6D6C7D7&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=45FD93C1-8B47-4B00-864D-C589E310E371&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -2992,7 +3189,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Eastern Power and Gas LLC",
@@ -3007,7 +3205,8 @@
           "phone": "(877) 799-3637",
           "website_url": "https://Easternpng.com",
           "signup_url": "https://easternpng.com/interactions/check-eligibility/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Eastern Power and Gas LLC",
@@ -3022,7 +3221,8 @@
           "phone": "(877) 799-3637",
           "website_url": "https://Easternpng.com",
           "signup_url": "https://easternpng.com/interactions/check-eligibility/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3037,7 +3237,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=163AF46F-8CE4-46DC-A730-6B5A2C8316FA&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=45FD93C1-8B47-4B00-864D-C589E310E371&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3052,7 +3253,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=DEO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "nTherm  LLC",
@@ -3067,7 +3269,8 @@
           "phone": "(888) 865-3402",
           "website_url": "https://www.ntherm.com",
           "signup_url": "https://www.ntherm.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -3082,7 +3285,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dom/residential/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "American Power & Gas of Ohio  LLC",
@@ -3097,7 +3301,8 @@
           "phone": "(888) 593-4225",
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3112,7 +3317,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=B1410B1B-0C8D-4861-B701-25FC9A28D987&UID=C7C5FD83-46F3-4B30-B916-36897E483F47&OID=45FD93C1-8B47-4B00-864D-C589E310E371&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -3127,7 +3333,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -3142,7 +3349,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-deo&utm_source=A2A&utm_medium=shopping&utm_campaign=deo_12",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Shipley Choice  LLC",
@@ -3157,7 +3365,8 @@
           "phone": "(866) 573-4853",
           "website_url": "http://www.shipleyenergy.com",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3172,7 +3381,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Greenlight Energy Inc.",
@@ -3187,7 +3397,8 @@
           "phone": "(888) 453-4427",
           "website_url": "https://www.gogreenlightenergy.com",
           "signup_url": "https://www.gogreenlightenergy.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -3202,7 +3413,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -3217,7 +3429,8 @@
           "phone": "(810) 765-8903",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Eastern Power and Gas LLC",
@@ -3232,7 +3445,8 @@
           "phone": "(877) 799-3637",
           "website_url": "https://Easternpng.com",
           "signup_url": "https://easternpng.com/interactions/check-eligibility/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Barracuda Energy LLC",
@@ -3247,7 +3461,8 @@
           "phone": "(833) 628-4278",
           "website_url": "https://www.barracudagas.com",
           "signup_url": "https://barracudagas.com/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -3262,7 +3477,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "SFE Energy Ohio  Inc",
@@ -3277,7 +3493,8 @@
           "phone": "(866) 255-3844",
           "website_url": "https://www.sfeenergy.com/",
           "signup_url": "https://www.sfeenergy.com/ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -3292,7 +3509,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=5360",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "My Choice Energy LLC",
@@ -3307,7 +3525,8 @@
           "phone": "(888) 505-9104",
           "website_url": "https://www.fostermychoice.com",
           "signup_url": "https://www.fostermychoice.com",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -3322,7 +3541,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dominion-energy-ohio/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Mercury Energy Marketing LLC",
@@ -3337,7 +3557,8 @@
           "phone": "(800) 975-6372",
           "website_url": "https://www.mercuryenergyohio.com",
           "signup_url": "https://mercuryenergyohio.com/plans/dom/residential/",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -3352,7 +3573,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=92&promocode=APPLESZERO",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3367,7 +3589,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/appleego",
-          "utility_id": "enbridge"
+          "utility_id": "enbridge",
+          "bundle_required": false
         }
       ],
       "count": 85,
@@ -3392,7 +3615,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_24",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -3407,7 +3631,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=4.99-12mos",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -3422,7 +3647,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3437,7 +3663,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=319F40D8-7B07-4BF5-AF78-43C5FFAB0793&UID=AA9773EA-ADA6-4796-9CDA-727CB045F971&OID=3EB3D09E-2546-41C4-A02D-1B2ACEA67120&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3452,7 +3679,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=VED",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Median Energy Corp",
@@ -3467,7 +3695,8 @@
           "phone": "(888) 316-5443",
           "website_url": "https://www.medianenergy.com",
           "signup_url": "http://www.medianenergy.com/sign-up/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -3482,7 +3711,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=96&promocode=APPLESZERO",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -3497,7 +3727,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_36",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_36",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -3512,7 +3743,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/vectren-energy-delivery?der=3821",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Alpha Gas And Electric LLC",
@@ -3527,7 +3759,8 @@
           "phone": "(845) 810-0088",
           "website_url": "https://alphagasandelectric.com/",
           "signup_url": "https://alphagasandelectric.com/p2c/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Utility Gas and Power",
@@ -3542,7 +3775,8 @@
           "phone": "(855) 747-4931",
           "website_url": "https://www.utilitygasandpower.com",
           "signup_url": "https://www.utilitygasandpower.com/enroll?referral=a2a&rate=6.99-12mos",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3557,7 +3791,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=FD71CC3E-E28F-4FB8-9839-F47D17248564&UID=AA9773EA-ADA6-4796-9CDA-727CB045F971&OID=3EB3D09E-2546-41C4-A02D-1B2ACEA67120&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Major Energy Services LLC",
@@ -3572,7 +3807,8 @@
           "phone": "(888) 825-6760",
           "website_url": "https://majorenergy.com",
           "signup_url": "https://majorenergy.com/enroll/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -3587,7 +3823,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -3602,7 +3839,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=5360",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3617,7 +3855,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=F6A92ED3-2D30-4C20-B4F1-29DA8187A660&UID=AA9773EA-ADA6-4796-9CDA-727CB045F971&OID=3EB3D09E-2546-41C4-A02D-1B2ACEA67120&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Nordic Energy Services LLC",
@@ -3632,7 +3871,8 @@
           "phone": "(877) 808-1022",
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3647,7 +3887,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3662,7 +3903,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=7954237C-2F73-4391-92AF-5A4413F919DD&UID=AA9773EA-ADA6-4796-9CDA-727CB045F971&OID=3EB3D09E-2546-41C4-A02D-1B2ACEA67120&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -3677,7 +3919,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3692,7 +3935,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "IGS Energy",
@@ -3707,7 +3951,8 @@
           "phone": "(800) 280-4474",
           "website_url": "https://www.igsenergy.com",
           "signup_url": "https://igs.com/signup/?campaignCode=Web-ApplesToApples&utm_campaign=referral-applestoapples-general&utm_source=applestoapples&utm_medium=referral",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -3722,7 +3967,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/?des=oh&deu=34&utm_source=puco&utm_medium=signuplink&utm_campaign=vedo",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3737,7 +3983,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/applecpe",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "AEP Energy Inc",
@@ -3752,7 +3999,8 @@
           "phone": "(877) 648-1922",
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=puco-vec&utm_source=A2A&utm_medium=shopping&utm_campaign=vedo_12",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Provision Power & Gas LLC",
@@ -3767,7 +4015,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://www.provisionpg.com",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=VEDO",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "SFE Energy Ohio  Inc",
@@ -3782,7 +4031,8 @@
           "phone": "(866) 255-3844",
           "website_url": "https://www.sfeenergy.com/",
           "signup_url": "https://www.sfeenergy.com/ohio/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -3797,7 +4047,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Constellation NewEnergy-Gas Division LLC",
@@ -3812,7 +4063,8 @@
           "phone": "(855) 465-1244",
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "https://www.constellation.com/campaigns/rateboard.html?utm_source=energychoice.ohio.gov&utm_medium=referral",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -3827,7 +4079,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=96&promocode=APPLESZERO",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Alpha Gas And Electric LLC",
@@ -3842,7 +4095,8 @@
           "phone": "(845) 810-0088",
           "website_url": "https://alphagasandelectric.com/P2C/",
           "signup_url": "https://alphagasandelectric.com/P2C/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Energy Harbor LLC",
@@ -3857,7 +4111,8 @@
           "phone": "(855) 487-0822",
           "website_url": "https://energyharbor.com/?PromoCode=Rateboard&rfid=PUCO",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=C4B3366F-1AC5-4590-8667-A9D55917A41C&UID=AA9773EA-ADA6-4796-9CDA-727CB045F971&OID=3EB3D09E-2546-41C4-A02D-1B2ACEA67120&RFID=PUCO&PUC=1&STATE=OH&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3872,7 +4127,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=VED",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "XOOM Energy Ohio LLC",
@@ -3887,7 +4143,8 @@
           "phone": "(888) 997-8979",
           "website_url": "http://xoomenergy.com/en",
           "signup_url": "http://xoomenergy.com/en/residential/ohio/vectren-energy-delivery?der=1547",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3902,7 +4159,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://ohionaturalgas.com",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?rateClassCode=01&ldcCode=VED",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Provision Power & Gas LLC",
@@ -3917,7 +4175,8 @@
           "phone": "(800) 930-5427",
           "website_url": "https://www.provisionpg.com",
           "signup_url": "https://www.getprovision.com/enroll-step-2/?utility=VEDO",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -3932,7 +4191,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/product-chart/?msid=5360",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Direct Energy Services LLC",
@@ -3947,7 +4207,8 @@
           "phone": "(855) 355-3733",
           "website_url": "https://www.directenergy.com/",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=5360",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Ohio Natural Gas",
@@ -3962,7 +4223,8 @@
           "phone": "(800) 735-0862",
           "website_url": "https://www.ohionaturalgas.com/green/",
           "signup_url": "https://www.ohionaturalgas.com/list-plans/?GL=true",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "CleanSky Energy",
@@ -3977,7 +4239,8 @@
           "phone": "(888) 355-6205",
           "website_url": "https://cleanskyenergy.com/",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=96&promocode=APPLESZERO",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         },
         {
           "name": "Just Energy",
@@ -3992,7 +4255,8 @@
           "phone": "(866) 239-5107",
           "website_url": "https://justenergy.com/ohapplestoapples/",
           "signup_url": "https://justenergy.com/ohapplestoapples/",
-          "utility_id": "centerpoint"
+          "utility_id": "centerpoint",
+          "bundle_required": false
         }
       ],
       "count": 41,
