@@ -862,7 +862,7 @@
     {
       "month": "2026-05",
       "type": "gas",
-      "date": "2026-05-01T17:18:41.750630Z",
+      "date": "2026-05-12T16:16:51.926871Z",
       "rates": {
         "columbia_gas": {
           "name": "Columbia Gas of Ohio",
@@ -876,7 +876,7 @@
         },
         "enbridge": {
           "name": "Enbridge Gas Ohio",
-          "rate": 3.795,
+          "rate": 3.259,
           "rate_unit": "CCF"
         },
         "centerpoint": {

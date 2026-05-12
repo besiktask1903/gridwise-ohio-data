@@ -167,12 +167,20 @@
       "entity_name": "CenterPoint Energy Ohio",
       "old_rate": 0.4962,
       "new_rate": 0.4388
+    },
+    {
+      "date": "2026-05-12T16:16:51.926165Z",
+      "type": "utility_sco",
+      "entity_id": "enbridge",
+      "entity_name": "Enbridge Gas Ohio",
+      "old_rate": 3.795,
+      "new_rate": 3.259
     }
   ],
   "last_known_rates": {
     "gas_sco_columbia_gas": 0.4809,
     "gas_sco_duke_energy": 0.7586,
-    "gas_sco_enbridge": 3.795,
+    "gas_sco_enbridge": 3.259,
     "gas_sco_centerpoint": 0.4388,
     "electric_ptc_aes_ohio": 0.0945,
     "electric_ptc_american_electric_power": 0.0994,
