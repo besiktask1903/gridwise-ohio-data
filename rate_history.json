@@ -183,13 +183,29 @@
       "entity_name": "Columbia Gas of Ohio",
       "old_rate": 0.4809,
       "new_rate": 0.529
+    },
+    {
+      "date": "2026-06-01T12:18:57.186432Z",
+      "type": "utility_sco",
+      "entity_id": "duke_energy",
+      "entity_name": "Duke Energy Ohio",
+      "old_rate": 0.7586,
+      "new_rate": 0.985
+    },
+    {
+      "date": "2026-06-01T12:18:57.186432Z",
+      "type": "utility_sco",
+      "entity_id": "centerpoint",
+      "entity_name": "CenterPoint Energy Ohio",
+      "old_rate": 0.4388,
+      "new_rate": 0.4903
     }
   ],
   "last_known_rates": {
     "gas_sco_columbia_gas": 0.529,
-    "gas_sco_duke_energy": 0.7586,
+    "gas_sco_duke_energy": 0.985,
     "gas_sco_enbridge": 3.259,
-    "gas_sco_centerpoint": 0.4388,
+    "gas_sco_centerpoint": 0.4903,
     "electric_ptc_aes_ohio": 0.0945,
     "electric_ptc_american_electric_power": 0.0994,
     "electric_ptc_duke_energy_electric": 0.1008,
