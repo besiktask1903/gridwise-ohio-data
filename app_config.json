@@ -1,0 +1,11 @@
+{
+  "android": {
+    "min_version_code": 0,
+    "store_url": "https://play.google.com/store/apps/details?id=com.gridwise.ohio"
+  },
+  "ios": {
+    "min_version": "0.0.0",
+    "store_url": "https://apps.apple.com/us/app/gridwise-ohio/idREPLACE_WITH_APP_ID"
+  },
+  "update_message": "A new version of GridWise Ohio is available with important fixes. Please update to keep using the app."
+}
