@@ -953,11 +953,11 @@
     {
       "month": "2026-06",
       "type": "electric",
-      "date": "2026-06-01T12:18:57.193222Z",
+      "date": "2026-06-01T16:35:40.100977Z",
       "rates": {
         "aes_ohio": {
           "name": "AES Ohio",
-          "rate": 0.0945,
+          "rate": 0.1086,
           "rate_unit": "kWh"
         },
         "american_electric_power": {
