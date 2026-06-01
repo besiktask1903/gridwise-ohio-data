@@ -207,6 +207,14 @@
       "entity_name": "AES Ohio",
       "old_rate": 0.0945,
       "new_rate": 0.1086
+    },
+    {
+      "date": "2026-06-01T17:33:59.200897Z",
+      "type": "utility_ptc",
+      "entity_id": "duke_energy_electric",
+      "entity_name": "Duke Energy Ohio",
+      "old_rate": 0.1008,
+      "new_rate": 0.107
     }
   ],
   "last_known_rates": {
@@ -216,7 +224,7 @@
     "gas_sco_centerpoint": 0.4903,
     "electric_ptc_aes_ohio": 0.1086,
     "electric_ptc_american_electric_power": 0.0994,
-    "electric_ptc_duke_energy_electric": 0.1008,
+    "electric_ptc_duke_energy_electric": 0.107,
     "electric_ptc_firstenergy_ohio_edison": 0.097,
     "electric_ptc_firstenergy_illuminating": 0.0988,
     "electric_ptc_firstenergy_toledo_edison": 0.0999
