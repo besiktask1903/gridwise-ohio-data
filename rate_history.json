@@ -215,6 +215,38 @@
       "entity_name": "Duke Energy Ohio",
       "old_rate": 0.1008,
       "new_rate": 0.107
+    },
+    {
+      "date": "2026-06-02T14:51:39.834972Z",
+      "type": "utility_ptc",
+      "entity_id": "american_electric_power",
+      "entity_name": "American Electric Power",
+      "old_rate": 0.0994,
+      "new_rate": 0.1012
+    },
+    {
+      "date": "2026-06-02T14:51:39.834993Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_ohio_edison",
+      "entity_name": "Ohio Edison",
+      "old_rate": 0.097,
+      "new_rate": 0.1083
+    },
+    {
+      "date": "2026-06-02T14:51:39.835001Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_illuminating",
+      "entity_name": "The Illuminating Company",
+      "old_rate": 0.0988,
+      "new_rate": 0.1111
+    },
+    {
+      "date": "2026-06-02T14:51:39.835006Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_toledo_edison",
+      "entity_name": "Toledo Edison",
+      "old_rate": 0.0999,
+      "new_rate": 0.11
     }
   ],
   "last_known_rates": {
@@ -223,10 +255,10 @@
     "gas_sco_enbridge": 3.259,
     "gas_sco_centerpoint": 0.4903,
     "electric_ptc_aes_ohio": 0.1086,
-    "electric_ptc_american_electric_power": 0.0994,
+    "electric_ptc_american_electric_power": 0.1012,
     "electric_ptc_duke_energy_electric": 0.107,
-    "electric_ptc_firstenergy_ohio_edison": 0.097,
-    "electric_ptc_firstenergy_illuminating": 0.0988,
-    "electric_ptc_firstenergy_toledo_edison": 0.0999
+    "electric_ptc_firstenergy_ohio_edison": 0.1083,
+    "electric_ptc_firstenergy_illuminating": 0.1111,
+    "electric_ptc_firstenergy_toledo_edison": 0.11
   }
 }
