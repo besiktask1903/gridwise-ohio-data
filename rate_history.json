@@ -247,12 +247,20 @@
       "entity_name": "Toledo Edison",
       "old_rate": 0.0999,
       "new_rate": 0.11
+    },
+    {
+      "date": "2026-06-12T14:08:30.455761Z",
+      "type": "utility_sco",
+      "entity_id": "enbridge",
+      "entity_name": "Enbridge Gas Ohio",
+      "old_rate": 3.259,
+      "new_rate": 3.74
     }
   ],
   "last_known_rates": {
     "gas_sco_columbia_gas": 0.529,
     "gas_sco_duke_energy": 0.985,
-    "gas_sco_enbridge": 3.259,
+    "gas_sco_enbridge": 3.74,
     "gas_sco_centerpoint": 0.4903,
     "electric_ptc_aes_ohio": 0.1086,
     "electric_ptc_american_electric_power": 0.1012,
