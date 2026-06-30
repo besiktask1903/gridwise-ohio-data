@@ -926,11 +926,11 @@
     {
       "month": "2026-06",
       "type": "gas",
-      "date": "2026-06-12T14:08:30.456556Z",
+      "date": "2026-06-30T16:22:13.832640Z",
       "rates": {
         "columbia_gas": {
           "name": "Columbia Gas of Ohio",
-          "rate": 0.529,
+          "rate": 0.5481,
           "rate_unit": "CCF"
         },
         "duke_energy": {
