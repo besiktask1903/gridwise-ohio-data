@@ -287,6 +287,30 @@
       "entity_name": "Duke Energy Ohio",
       "old_rate": 0.107,
       "new_rate": 0.1069
+    },
+    {
+      "date": "2026-07-01T18:06:09.561340Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_ohio_edison",
+      "entity_name": "Ohio Edison",
+      "old_rate": 0.1083,
+      "new_rate": 0.1092
+    },
+    {
+      "date": "2026-07-01T18:06:09.561357Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_illuminating",
+      "entity_name": "The Illuminating Company",
+      "old_rate": 0.1111,
+      "new_rate": 0.1116
+    },
+    {
+      "date": "2026-07-01T18:06:09.561362Z",
+      "type": "utility_ptc",
+      "entity_id": "firstenergy_toledo_edison",
+      "entity_name": "Toledo Edison",
+      "old_rate": 0.11,
+      "new_rate": 0.111
     }
   ],
   "last_known_rates": {
@@ -297,8 +321,8 @@
     "electric_ptc_aes_ohio": 0.1086,
     "electric_ptc_american_electric_power": 0.1012,
     "electric_ptc_duke_energy_electric": 0.1069,
-    "electric_ptc_firstenergy_ohio_edison": 0.1083,
-    "electric_ptc_firstenergy_illuminating": 0.1111,
-    "electric_ptc_firstenergy_toledo_edison": 0.11
+    "electric_ptc_firstenergy_ohio_edison": 0.1092,
+    "electric_ptc_firstenergy_illuminating": 0.1116,
+    "electric_ptc_firstenergy_toledo_edison": 0.111
   }
 }
