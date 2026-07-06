@@ -311,6 +311,14 @@
       "entity_name": "Toledo Edison",
       "old_rate": 0.11,
       "new_rate": 0.111
+    },
+    {
+      "date": "2026-07-06T14:23:31.024366Z",
+      "type": "utility_ptc",
+      "entity_id": "american_electric_power",
+      "entity_name": "American Electric Power",
+      "old_rate": 0.1012,
+      "new_rate": 0.1097
     }
   ],
   "last_known_rates": {
@@ -319,7 +327,7 @@
     "gas_sco_enbridge": 3.74,
     "gas_sco_centerpoint": 0.5107,
     "electric_ptc_aes_ohio": 0.1086,
-    "electric_ptc_american_electric_power": 0.1012,
+    "electric_ptc_american_electric_power": 0.1097,
     "electric_ptc_duke_energy_electric": 0.1069,
     "electric_ptc_firstenergy_ohio_edison": 0.1092,
     "electric_ptc_firstenergy_illuminating": 0.1116,
