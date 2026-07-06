@@ -1,0 +1,45 @@
+name: Deploy privacy policy to Pages
+
+# This repo is a DATA repo: the app reads the JSON via raw.githubusercontent.com,
+# NOT via Pages. Pages exists only to host privacy-policy.md (the app-store
+# privacy-policy URL). The data fetcher pushes here DAILY, and GitHub's default
+# "Deploy from a branch" Pages rebuilt on every push -- wasteful, and it
+# occasionally hit transient deploy-queue timeouts. So Pages now builds ONLY
+# when the privacy policy (or this workflow) actually changes.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'privacy-policy.md'
+      - '_config.yml'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel an in-progress one.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
