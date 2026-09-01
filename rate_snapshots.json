@@ -1118,7 +1118,7 @@
     {
       "month": "2026-09",
       "type": "gas",
-      "date": "2026-09-01T03:51:03.203049Z",
+      "date": "2026-09-01T14:34:11.293376Z",
       "rates": {
         "columbia_gas": {
           "name": "Columbia Gas of Ohio",
@@ -1127,7 +1127,7 @@
         },
         "duke_energy": {
           "name": "Duke Energy Ohio",
-          "rate": 1.0574,
+          "rate": 0.9949,
           "rate_unit": "CCF"
         },
         "enbridge": {
@@ -1137,7 +1137,7 @@
         },
         "centerpoint": {
           "name": "CenterPoint Energy Ohio",
-          "rate": 0.4566,
+          "rate": 0.476,
           "rate_unit": "CCF"
         }
       }
