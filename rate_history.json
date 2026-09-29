@@ -391,10 +391,18 @@
       "entity_name": "Enbridge Gas Ohio",
       "old_rate": 3.425,
       "new_rate": 3.607
+    },
+    {
+      "date": "2026-09-29T00:13:01.641864Z",
+      "type": "utility_sco",
+      "entity_id": "columbia_gas",
+      "entity_name": "Columbia Gas of Ohio",
+      "old_rate": 0.5157,
+      "new_rate": 0.525
     }
   ],
   "last_known_rates": {
-    "gas_sco_columbia_gas": 0.5157,
+    "gas_sco_columbia_gas": 0.525,
     "gas_sco_duke_energy": 0.9949,
     "gas_sco_enbridge": 3.607,
     "gas_sco_centerpoint": 0.476,
