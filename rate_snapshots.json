@@ -1182,7 +1182,7 @@
     {
       "month": "2026-10",
       "type": "gas",
-      "date": "2026-10-01T01:05:32.832690Z",
+      "date": "2026-10-01T14:29:37.482599Z",
       "rates": {
         "columbia_gas": {
           "name": "Columbia Gas of Ohio",
@@ -1191,7 +1191,7 @@
         },
         "duke_energy": {
           "name": "Duke Energy Ohio",
-          "rate": 0.9949,
+          "rate": 1.0147,
           "rate_unit": "CCF"
         },
         "enbridge": {
@@ -1201,7 +1201,7 @@
         },
         "centerpoint": {
           "name": "CenterPoint Energy Ohio",
-          "rate": 0.476,
+          "rate": 0.486,
           "rate_unit": "CCF"
         }
       }
@@ -1209,7 +1209,7 @@
     {
       "month": "2026-10",
       "type": "electric",
-      "date": "2026-10-01T01:05:56.233244Z",
+      "date": "2026-10-01T14:29:57.461142Z",
       "rates": {
         "aes_ohio": {
           "name": "AES Ohio",
@@ -1223,7 +1223,7 @@
         },
         "duke_energy_electric": {
           "name": "Duke Energy Ohio",
-          "rate": 0.1069,
+          "rate": 0.1049,
           "rate_unit": "kWh"
         },
         "firstenergy_ohio_edison": {
