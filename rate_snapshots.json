@@ -1209,7 +1209,7 @@
     {
       "month": "2026-10",
       "type": "electric",
-      "date": "2026-10-01T23:43:03.321276Z",
+      "date": "2026-10-02T17:33:10.612723Z",
       "rates": {
         "aes_ohio": {
           "name": "AES Ohio",
@@ -1218,7 +1218,7 @@
         },
         "american_electric_power": {
           "name": "American Electric Power",
-          "rate": 0.1097,
+          "rate": 0.1019,
           "rate_unit": "kWh"
         },
         "duke_energy_electric": {
